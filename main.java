@@ -3,5 +3,6 @@ public class main{
     System.out.println("java prog");
 
         System.out.println("java aaa");
+        System.out.println("checkign jenkins");
   }
 }
